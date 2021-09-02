@@ -32,7 +32,7 @@ header{
     height: 600px;
     background: #bc4e9c;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #cca0af, #be7dac);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(340, 27%, 60%, 0.603), #cb997e), url(../imagenes/portada.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, hsla(29, 77%, 31%, 0.342), #cb997e), url(../imagenes/portada.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
     position: relative;
@@ -125,10 +125,11 @@ main.sobre-nosotros{
     padding: 0px 0px 30px 15px;
     font-weight: 300;
     text-align: justify;
+
 }
 
 .portafolio{
-    background: #f9dcc4;
+    background: #cb997e;
 }
 
 .galeria-port{
@@ -210,7 +211,7 @@ main.sobre-nosotros{
 
 .cards .card > .contenido-texto-card{
     width: 60%;
-    color: #fff;
+    color: #583101;
 }
 
 .cards .card > .contenido-texto-card p{
